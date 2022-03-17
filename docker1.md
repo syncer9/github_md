@@ -6,12 +6,6 @@ crtl + shift + v
 ## .md 미리보기 창
 crtl + shift + v
 
-## .md 미리보기 창
-crtl + shift + v
-
-## .md 미리보기 창
-crtl + shift + v
-
 <!-- Heading 1-->
 
 ## Container 실행(example)
