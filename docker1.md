@@ -4,6 +4,25 @@ crtl + shift + v
 ## 모든 변경내용 스테이징 -> commit -> push
 
 
+git clone https://github.com/syncer9/github_md.git
+cd github.md
+
+PS C:\Users\syncer9\github_md> git status
+On branch release
+Your branch is up to date with 'origin/release'.
+
+nothing to commit, working tree clean
+PS C:\Users\syncer9\github_md> git branch
+  main
+* release
+PS C:\Users\syncer9\github_md> git branch -a
+  main
+* release
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
+  remotes/origin/release
+
+
 <!-- Heading 1-->
 
 ## Container 실행(example)
