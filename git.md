@@ -48,5 +48,30 @@ remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/syncer9/github_md.git
    9fe7384..1f58246  release -> release
 
+ feature 브랜치 생성
+PS C:\Users\syncer9\github_md> git checkout -b feature/v2
+Switched to a new branch 'feature/v2'
+PS C:\Users\syncer9\github_md> git status
+On branch feature/v2
+nothing to commit, working tree clean
+PS C:\Users\syncer9\github_md> git branch
+  dev
+  feature/v1
+* feature/v2
+  main
+  release
+
+## feature 브랜치 원격 반영 (최초 내려받은 형상 그대로)
+PS C:\Users\syncer9\github_md> git push -u origin feature/v2
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+remote: 
+remote: Create a pull request for 'feature/v2' on GitHub by visiting:
+remote:      https://github.com/syncer9/github_md/pull/new/feature/v2
+remote:
+To https://github.com/syncer9/github_md.git
+ * [new branch]      feature/v2 -> feature/v2
+Branch 'feature/v2' set up to track remote branch 'feature/v2' from 'origin'.
+
+
 
 ```
