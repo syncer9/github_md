@@ -1,7 +1,10 @@
 ## .md 미리보기 창
 crtl + shift + v
 
-<!-- Heading -->
+## 모든 변경내용 스테이징 -> commit -> push
+
+
+<!-- Heading 1-->
 
 ## Container 실행(example)
 - Docker image 리스트, 현재 실행중인 컨테이너 리스트 확인
