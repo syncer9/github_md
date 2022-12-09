@@ -3,12 +3,6 @@ crtl + shift + v
 
 모든 변경내용 스테이징 -> commit -> push
 
-## .md 미리보기 창
-crtl + shift + v
-
-
-## .md 미리보기 창
-crtl + shift + v
 
 <!-- Heading 1-->
 
