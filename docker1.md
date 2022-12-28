@@ -212,7 +212,7 @@ ENTRYPOINT ["/bin/genid.sh"]
 # curl 127.0.0.1:8889
 root@docker-ubuntu:~# curl 127.0.0.1:8889
         .-"""-.
-       / .===. \
+       / .===. \dd
        \/ 6 6 \/
        ( \___/ )
   _ooo__\_____/______
